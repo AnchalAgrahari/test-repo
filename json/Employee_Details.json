@@ -1,0 +1,22 @@
+{
+    "employee_details": [
+        {
+            "id_no": 1,
+            "name": "Abhilash",
+            "age": 23,
+            "department": "management"
+        },
+        {
+            "id.no": 2,
+            "name": "ira",
+            "age": 20,
+            "department": "marketing"
+        },
+        {
+            "id_no": 3,
+            "name": "inaaya",
+            "age": 22,
+            "department": "technical"
+        }
+    ]
+}
